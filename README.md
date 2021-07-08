@@ -32,7 +32,7 @@ This application is for checkin and checkout attendance purposes
 - [ ] Frontend Mobile
   <p>This project is a frontend for mobile app. I'm use technologies such : </p>
   
-  1. ReactJs
+  1. React Native
   2. React Hooks
   3. Redux
   4. Typescript
