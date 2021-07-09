@@ -50,7 +50,7 @@ This application for checkin and checkout attendance purposes
 
 # Setup VPS
 
-- [ ] Setup domain and subdomain
+- [x] Setup domain and subdomain https://github.com/malvinys/setup-domain
 - [ ] Setup VPS using Digital Ocean
 - [ ] Setup VPS using AWS
 - [ ] Setup VPS using GCP
