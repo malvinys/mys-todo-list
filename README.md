@@ -58,4 +58,4 @@ This application for checkin and checkout attendance purposes
 # My Profile
 
 - [ ] Web profile github https://github.com/malvinys/malvinys.github.io
-- [ ] Config profile github https://github.com/malvinys/malvinys
+- [X] Config profile github https://github.com/malvinys/malvinys
