@@ -4,7 +4,7 @@ This is my todo list to learn about new technology and projects
 
 # Attendance App
 
-This application is for checkin and checkout attendance purposes
+This application for checkin and checkout attendance purposes
 
 - [x] Backend Storage API https://github.com/malvinys/express-typescript
   <p>This project is a storage api. I'm use technologies such : </p>
@@ -47,6 +47,13 @@ This application is for checkin and checkout attendance purposes
 
 - [x] Docker starter kit https://github.com/malvinys/docker-starter-kit
   <p>Deploy reactjs project into production build with docker</p>
+
+# Setup VPS
+
+- [ ] Setup domain and subdomain
+- [ ] Setup VPS using Digital Ocean
+- [ ] Setup VPS using AWS
+- [ ] Setup VPS using GCP
 
 # My Profile
 
