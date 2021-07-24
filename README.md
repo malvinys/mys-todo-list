@@ -6,6 +6,11 @@ This is my todo list to learn about new technology and projects
 
 This application for checkin and checkout attendance purposes
 
+- [ ] Database
+  <p>This project is a configuration for database Attendance App. I'm use technologies such : </p>
+  
+  1. MongoDb
+
 - [x] Backend Storage API https://github.com/malvinys/express-typescript
   <p>This project is a storage api. I'm use technologies such : </p>
   
@@ -13,13 +18,13 @@ This application for checkin and checkout attendance purposes
   2. Express
   3. Typescript
 
-- [ ] Backend Mobile App
+- [x] Backend Mobile App https://github.com/malvinys/attendance-app-backend-mobile
   <p>This project is a backend for mobile app. I'm use technologies such : </p>
   
   1. NodeJs
   2. Express
   3. Typescript
-  4. Mysql
+  4. MongoDb
 
 - [ ] Backend Web
   <p>This project is a backend for web admin panel. I'm use technologies such : </p>
@@ -27,7 +32,7 @@ This application for checkin and checkout attendance purposes
   1. NodeJs
   2. Express
   3. Typescript
-  4. Mysql
+  4. MongoDb
 
 - [ ] Frontend Mobile
   <p>This project is a frontend for mobile app. I'm use technologies such : </p>
